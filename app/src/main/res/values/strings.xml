@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Redly</string>
+    <string name="title_activity_main">Redly</string>
+    <string name="package_name">com.tricosoft.Redly</string>
+    <string name="custom_url_scheme">com.tricosoft.Redly</string>
+</resources>
